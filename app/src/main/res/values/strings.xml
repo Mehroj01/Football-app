@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVP android</string>
+    <string name="standings">Standings</string>
+    <string name="laliga">Laliga</string>
+    <string name="spain">Spain</string>
+    <string name="team">Team</string>
+    <string name="manchester_united">Manchester United</string>
+    <string name="_7">X</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1">1</string>
+    <string name="no_data_yet">No data yet</string>
+</resources>
